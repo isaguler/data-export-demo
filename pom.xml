@@ -47,7 +47,6 @@
 			<artifactId>hibernate-validator</artifactId>
 		</dependency>
 
-		<!--[EXCEL]-->
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
